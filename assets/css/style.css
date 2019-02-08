@@ -1,0 +1,13 @@
+body{
+    background: url("../images/gravel.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 100;
+   
+};
+button, div, form, input {
+    margin: 10px;
+  };
+
